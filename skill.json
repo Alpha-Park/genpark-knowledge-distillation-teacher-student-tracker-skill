@@ -1,0 +1,15 @@
+{
+  "name": "genpark-knowledge-distillation-teacher-student-tracker-skill",
+  "version": "1.0.0",
+  "description": "Knowledge distillation teacher-student loss engine with KL divergence.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "knowledge-distillation",
+    "teacher-student",
+    "kl-divergence",
+    "model-compression",
+    "continual-learning"
+  ]
+}
